@@ -4,3 +4,4 @@
 生成更新数据表
  python manage.py migrate
  test
+test2
